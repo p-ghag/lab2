@@ -14,6 +14,70 @@
 body {
      border: 1px dotted gray;
      padding: 20px;
+
+}
+.project{
+     margin-left:20px;
+     font-size: 20px;
+     color:#2623E9;
+     width:525px;
+     font-variant: small-caps;
+}
+
+.ocean_image{
+     padding: 20px;
+     background-color: blue;
+     max-width: 50%;
+
+}
+.forest_image{
+     padding: 20px;
+     background-color: green;
+     max-width: 50%;
+}
+.desert_image{
+     padding: 20px;
+     background-color: yellow;
+     max-width: 50%;
+}
+.lion_image{
+     padding: 20px;
+     background-color: orange;
+     max-width: 50%;
+}
+.pets_image{
+     padding: 20px;
+     background-color: purple;
+     max-width: 50%;
+}
+.savanna_image{
+     padding: 20px;
+     background-color: green;
+     max-width: 50%;
+}
+.desert_image{
+     padding: 20px;
+     background-color: red;
+     max-width: 50%;
+}
+.tundre_image{
+     padding: 20px;
+     background-color: purple;
+     max-width: 50%;
+}
+
+.tiger_image{
+     padding: 20px;
+     background-color: pink;
+     max-width: 50%;
+}
+
+
+.project{
+     margine-left:20px;
+     background-color:#deebf7;
+     padding:20px;
+     width:525px;
 }
 
 .jumbotron {
